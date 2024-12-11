@@ -9573,6 +9573,11 @@ h6,
   background-size: cover;
 }
 
+.page-header-cbst {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/water.jpg), no-repeat center center;
+  background-size: cover;
+}
+
 .page-header-u {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/underground.jpg), no-repeat center center;
   background-size: cover;
